@@ -1,0 +1,10 @@
+D:\oop\mazecraze\mazecraze\bin\Debug\mazecraze.exe.config
+D:\oop\mazecraze\mazecraze\bin\Debug\mazecraze.exe
+D:\oop\mazecraze\mazecraze\bin\Debug\mazecraze.pdb
+D:\oop\mazecraze\mazecraze\bin\Debug\EZInput.dll
+D:\oop\mazecraze\mazecraze\bin\Debug\EZInput.xml
+D:\oop\mazecraze\mazecraze\obj\Debug\mazecraze.csproj.AssemblyReference.cache
+D:\oop\mazecraze\mazecraze\obj\Debug\mazecraze.csproj.CoreCompileInputs.cache
+D:\oop\mazecraze\mazecraze\obj\Debug\mazecraze.csproj.CopyComplete
+D:\oop\mazecraze\mazecraze\obj\Debug\mazecraze.exe
+D:\oop\mazecraze\mazecraze\obj\Debug\mazecraze.pdb
